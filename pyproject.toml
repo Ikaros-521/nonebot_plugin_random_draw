@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "nonebot-plugin-random_draw"
-version = "0.0.1"
+version = "0.1.0"
 description = "通过添加各种想要抽取的内容，最后进行随机抽取。"
 authors = ["Ikaros <327209194@qq.com>"]
 license = "MIT"
